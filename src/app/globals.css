@@ -19,3 +19,9 @@ body {
     background: var(--background);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.custom-image {
+  width: 650px; /* Lebar gambar sesuai keinginan */
+  height: 650px; /* Tinggi gambar sesuai keinginan */
+  object-fit: cover; /* Menjaga proporsi gambar tanpa distorsi */
+}
