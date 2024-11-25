@@ -21,7 +21,7 @@ body {
 }
 
 .custom-image {
-  width: 650px; /* Lebar gambar sesuai keinginan */
-  height: 650px; /* Tinggi gambar sesuai keinginan */
-  object-fit: cover; /* Menjaga proporsi gambar tanpa distorsi */
+  width: 1194px; /* Lebar gambar sesuai keinginan */
+  height: 836px; /* Tinggi gambar sesuai keinginan */
+  object-fit: contain; /* Menjaga proporsi gambar tanpa distorsi */
 }
